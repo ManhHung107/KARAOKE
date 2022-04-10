@@ -1,0 +1,29 @@
+﻿@model KARAOKE.Models.EF.DonViTinh
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="forms">
+    <div class="form-grids row widget-shadow" data-example-id="basic-forms">
+        <div class="form-grids row widget-shadow" data-example-id="basic-forms">
+            <div class="form-title">
+                <h4>Cập nhật đơn vị tính</h4>
+            </div>
+            <div class="form-body">
+                @using (Html.BeginForm("Edit", "DVT", FormMethod.Post))
+                {
+                    @Html.AntiForgeryToken()
+                    @Html.ValidationSummary(false, "", "error")
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Tên đơn vị tính</label>
+                        @Html.TextBoxFor(model => model.TenDVT, new { @class = "form----", @placeholder = "Nhập tên đơn vị tính", @autoforcus = "autoforcus" })
+                        @Html.ValidationMessageFor(model => model.TenDVT, "", new { @class = "text-danger" })
+                    </div>
+                    <button type="submit" class="btn btn-default">Cập nhật</button>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+

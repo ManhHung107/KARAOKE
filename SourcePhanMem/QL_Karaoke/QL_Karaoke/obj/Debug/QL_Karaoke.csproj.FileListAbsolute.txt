@@ -1,0 +1,126 @@
+C:\Users\Admin\source\repos\QL_Karaoke\QL_Karaoke\bin\Debug\QL_Karaoke.exe.config
+C:\Users\Admin\source\repos\QL_Karaoke\QL_Karaoke\bin\Debug\QL_Karaoke.exe
+C:\Users\Admin\source\repos\QL_Karaoke\QL_Karaoke\bin\Debug\QL_Karaoke.pdb
+C:\Users\Admin\source\repos\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Properties.Resources.resources
+C:\Users\Admin\source\repos\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.exe
+C:\Users\Admin\source\repos\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.pdb
+C:\Users\Admin\source\repos\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmDonViTinh.resources
+C:\Users\Admin\source\repos\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmMatHang.resources
+C:\Users\Admin\source\repos\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmLoaiPhong.resources
+C:\Users\Admin\source\repos\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmPhong.resources
+C:\Users\Admin\source\repos\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmNCC.resources
+C:\Users\Admin\source\repos\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmNhanVien.resources
+C:\Users\Admin\source\repos\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmNhapHang.resources
+C:\Users\Admin\source\repos\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmCTHDNhap.resources
+C:\Users\Admin\source\repos\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmBanHang.resources
+C:\Users\Admin\source\repos\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmOrder.resources
+C:\Users\Admin\source\repos\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmMain.resources
+C:\Users\Admin\source\repos\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmLogin.resources
+C:\Users\Admin\source\repos\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmTonKho.resources
+C:\Users\Admin\source\repos\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmDoanhThu.resources
+C:\Users\Admin\source\repos\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmWelcom.resources
+C:\Users\Admin\source\repos\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmCongNo.resources
+C:\Users\Admin\source\repos\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmDoiMatKhau.resources
+C:\Users\Admin\source\repos\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\bin\Debug\QL_Karaoke.exe.config
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\bin\Debug\QL_Karaoke.exe
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\bin\Debug\QL_Karaoke.pdb
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmBanHang.resources
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmCongNo.resources
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmCTHDNhap.resources
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmDoanhThu.resources
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmDoiMatKhau.resources
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmDonViTinh.resources
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmLoaiPhong.resources
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmLogin.resources
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmMain.resources
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmMatHang.resources
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmNCC.resources
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmNhanVien.resources
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmNhapHang.resources
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmOrder.resources
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmPhong.resources
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmTonKho.resources
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmWelcom.resources
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.exe
+C:\Users\Admin\OneDrive\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.pdb
+C:\Users\Admin\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\bin\Debug\QL_Karaoke.exe.config
+C:\Users\Admin\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\bin\Debug\QL_Karaoke.exe
+C:\Users\Admin\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\bin\Debug\QL_Karaoke.pdb
+C:\Users\Admin\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmBanHang.resources
+C:\Users\Admin\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmCongNo.resources
+C:\Users\Admin\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmCTHDNhap.resources
+C:\Users\Admin\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmDoanhThu.resources
+C:\Users\Admin\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmDoiMatKhau.resources
+C:\Users\Admin\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmDonViTinh.resources
+C:\Users\Admin\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmLoaiPhong.resources
+C:\Users\Admin\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmLogin.resources
+C:\Users\Admin\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmMain.resources
+C:\Users\Admin\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmMatHang.resources
+C:\Users\Admin\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmNCC.resources
+C:\Users\Admin\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmNhanVien.resources
+C:\Users\Admin\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmNhapHang.resources
+C:\Users\Admin\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmOrder.resources
+C:\Users\Admin\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmPhong.resources
+C:\Users\Admin\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmTonKho.resources
+C:\Users\Admin\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmWelcom.resources
+C:\Users\Admin\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Properties.Resources.resources
+C:\Users\Admin\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.exe
+C:\Users\Admin\Desktop\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.pdb
+D:\code\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmBanHang.resources
+D:\code\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmCongNo.resources
+D:\code\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmCTHDNhap.resources
+D:\code\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmDoanhThu.resources
+D:\code\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmDoiMatKhau.resources
+D:\code\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmDonViTinh.resources
+D:\code\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmLoaiPhong.resources
+D:\code\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmLogin.resources
+D:\code\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmMain.resources
+D:\code\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmMatHang.resources
+D:\code\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmNCC.resources
+D:\code\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmNhapHang.resources
+D:\code\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmOrder.resources
+D:\code\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmPhong.resources
+D:\code\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmTonKho.resources
+D:\code\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Properties.Resources.resources
+D:\code\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.GenerateResource.cache
+D:\code\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.CoreCompileInputs.cache
+D:\code\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.exe
+D:\code\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.pdb
+D:\code\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.AssemblyReference.cache
+D:\code\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\bin\Debug\QL_Karaoke.exe.config
+D:\code\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\bin\Debug\QL_Karaoke.exe
+D:\code\Đồ án CNPM-Quản lý karaoke\QL_Karaoke\QL_Karaoke\bin\Debug\QL_Karaoke.pdb
+C:\Users\doman\OneDrive\Desktop\DoManhHung-1811060273\SourcePhanMem\QL_Karaoke\QL_Karaoke\bin\Debug\QL_Karaoke.exe.config
+C:\Users\doman\OneDrive\Desktop\DoManhHung-1811060273\SourcePhanMem\QL_Karaoke\QL_Karaoke\bin\Debug\QL_Karaoke.exe
+C:\Users\doman\OneDrive\Desktop\DoManhHung-1811060273\SourcePhanMem\QL_Karaoke\QL_Karaoke\bin\Debug\QL_Karaoke.pdb
+C:\Users\doman\OneDrive\Desktop\DoManhHung-1811060273\SourcePhanMem\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.AssemblyReference.cache
+C:\Users\doman\OneDrive\Desktop\DoManhHung-1811060273\SourcePhanMem\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmBanHang.resources
+C:\Users\doman\OneDrive\Desktop\DoManhHung-1811060273\SourcePhanMem\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmCongNo.resources
+C:\Users\doman\OneDrive\Desktop\DoManhHung-1811060273\SourcePhanMem\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmCTHDNhap.resources
+C:\Users\doman\OneDrive\Desktop\DoManhHung-1811060273\SourcePhanMem\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmDoanhThu.resources
+C:\Users\doman\OneDrive\Desktop\DoManhHung-1811060273\SourcePhanMem\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmDoiMatKhau.resources
+C:\Users\doman\OneDrive\Desktop\DoManhHung-1811060273\SourcePhanMem\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmDonViTinh.resources
+C:\Users\doman\OneDrive\Desktop\DoManhHung-1811060273\SourcePhanMem\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmLoaiPhong.resources
+C:\Users\doman\OneDrive\Desktop\DoManhHung-1811060273\SourcePhanMem\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmLogin.resources
+C:\Users\doman\OneDrive\Desktop\DoManhHung-1811060273\SourcePhanMem\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmMain.resources
+C:\Users\doman\OneDrive\Desktop\DoManhHung-1811060273\SourcePhanMem\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmMatHang.resources
+C:\Users\doman\OneDrive\Desktop\DoManhHung-1811060273\SourcePhanMem\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmNCC.resources
+C:\Users\doman\OneDrive\Desktop\DoManhHung-1811060273\SourcePhanMem\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmNhapHang.resources
+C:\Users\doman\OneDrive\Desktop\DoManhHung-1811060273\SourcePhanMem\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmOrder.resources
+C:\Users\doman\OneDrive\Desktop\DoManhHung-1811060273\SourcePhanMem\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmPhong.resources
+C:\Users\doman\OneDrive\Desktop\DoManhHung-1811060273\SourcePhanMem\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.frmTonKho.resources
+C:\Users\doman\OneDrive\Desktop\DoManhHung-1811060273\SourcePhanMem\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.Properties.Resources.resources
+C:\Users\doman\OneDrive\Desktop\DoManhHung-1811060273\SourcePhanMem\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.GenerateResource.cache
+C:\Users\doman\OneDrive\Desktop\DoManhHung-1811060273\SourcePhanMem\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.csproj.CoreCompileInputs.cache
+C:\Users\doman\OneDrive\Desktop\DoManhHung-1811060273\SourcePhanMem\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.exe
+C:\Users\doman\OneDrive\Desktop\DoManhHung-1811060273\SourcePhanMem\QL_Karaoke\QL_Karaoke\obj\Debug\QL_Karaoke.pdb

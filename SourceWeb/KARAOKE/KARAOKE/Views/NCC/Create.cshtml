@@ -1,0 +1,43 @@
+﻿@model KARAOKE.Models.EF.NCC
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="forms">
+    <div class="form-grids row widget-shadow" data-example-id="basic-forms">
+        <div class="form-grids row widget-shadow" data-example-id="basic-forms">
+            <div class="form-title">
+                <h4>Thêm mới nhà cung cấp</h4>
+            </div>
+            <div class="form-body">
+                @using (Html.BeginForm("Create", "NCC", FormMethod.Post))
+                {
+                    @Html.AntiForgeryToken()
+                    @Html.ValidationSummary(false, "", "error")
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Tên nhà cung cấp</label>
+                        @Html.TextBoxFor(model => model.TenNCC, new { @class = "form----", @placeholder = "Nhập tên nhà cung cấp", @autoforcus = "autoforcus" })
+                        @Html.ValidationMessageFor(model => model.TenNCC, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputPassword1">Số điện thoại</label>
+                        @Html.TextBoxFor(model => model.DienThoai, new { @class = "form----", @placeholder = "Nhập số điện thoại" })
+                        @Html.ValidationMessageFor(model => model.DienThoai, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputPassword1">Địa chỉ</label>
+                        @Html.TextBoxFor(model => model.DiaChi, new { @class = "form----", @placeholder = "Nhập địa chỉ" })
+                        @Html.ValidationMessageFor(model => model.DiaChi, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputPassword1">Email </label>
+                        @Html.TextBoxFor(model => model.Email, new { @class = "form----", @placeholder = "Nhập email" } )
+                        @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                    </div> <button type="submit" class="btn btn-default">Thêm mới</button>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+

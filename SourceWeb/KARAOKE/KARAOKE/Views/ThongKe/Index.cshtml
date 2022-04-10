@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="tables">
+    <div class="bs-example widget-shadow" data-example-id="contextual-table">
+        <h4>Thống kê doanh thu</h4>
+        <a href="/User/Create" type="button" class="btn btn-success btn-flat btn-pri">
+            <i class="fa fa-plus" aria-hidden="true"></i>
+
+            Thêm mới
+        </a>
+        <table class="table">
+            <thead>
+                <tr class="success">
+                    <th>ID</th>
+                    <th>Tên phòng</th>
+                    <th>Ngày giao dịch</th>
+                    <th>Tổng tiền</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                <tr class="active" id="row_@item.IDHoaDon">
+                    <th scope="row">@item.IDHoaDon</th>
+                    <td>@item.Phong.TenPhong</td>
+                    <td>@item.ThoiGianKThuc</td>
+                    <td>@item.DonGiaPhong*@item.ThoiGianKThuc</td>
+                    <td></td>
+                </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+

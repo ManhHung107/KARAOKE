@@ -1,0 +1,53 @@
+﻿@model KARAOKE.Models.EF.MatHang
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="forms">
+    <div class="form-grids row widget-shadow" data-example-id="basic-forms">
+        <div class="form-grids row widget-shadow" data-example-id="basic-forms">
+            <div class="form-title">
+                <h4>Thêm mới mặt hàng</h4>
+            </div>
+            <div class="form-body">
+                @using (Html.BeginForm("Create", "Product", FormMethod.Post))
+                {
+                    @Html.AntiForgeryToken()
+                    @Html.ValidationSummary(false, "", "error")
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Tên mặt hàng</label>
+                        @Html.TextBoxFor(model => model.TenMatHang, new { @class = "form----", @placeholder = "Nhập tên mặt hàng", @autoforcus = "autoforcus" })
+                        @Html.ValidationMessageFor(model => model.TenMatHang, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputPassword1">Đơn vị tính</label>
+                        @Html.DropDownList("IDDVT", new SelectList (Model.listDVT,"ID","TenDVT"),new {@class = "form----"})
+                        @Html.ValidationMessageFor(model => model.DonViTinh.TenDVT, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputPassword1">Đơn giá</label>
+                        @Html.TextBoxFor(model => model.DonGiaBan, new { @class = "form----", @placeholder = "Nhập đơn giá" })
+                        @Html.ValidationMessageFor(model => model.DonGiaBan, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputPassword1">Mặt hàng gốc</label>
+                        @Html.TextBoxFor(model => model.IdCha, new { @class = "form----", @placeholder = "Nhập mặt hàng gốc" })
+                        @Html.ValidationMessageFor(model => model.IdCha, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputPassword1">Tỉ lệ quy đổi</label>
+                        @Html.TextBoxFor(model => model.Tile, new { @class = "form----", @placeholder = "Nhập tỉ lệ quy đổi" })
+                        @Html.ValidationMessageFor(model => model.Tile, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputPassword1">Dịch vụ ? </label>
+                        @Html.CheckBoxFor(model => model.isDichVu, new { htmlAttributes = new { @class = "checkbox----", } })
+                        @Html.ValidationMessageFor(model => model.isDichVu, "", new { @class = "text-danger" })
+                    </div> <button type="submit" class="btn btn-default">Thêm</button>
+                }
+            </div>
+        </div>
+    </div>
+</div>

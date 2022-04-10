@@ -1,0 +1,39 @@
+﻿@model KARAOKE.Models.EF.Phong
+
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="forms">
+    <div class="form-grids row widget-shadow" data-example-id="basic-forms">
+        <div class="form-grids row widget-shadow" data-example-id="basic-forms">
+            <div class="form-title">
+                <h4>Cập nhật phòng</h4>
+            </div>
+            <div class="form-body">
+                @using (Html.BeginForm("Edit", "Phong", FormMethod.Post))
+                {
+                    @Html.AntiForgeryToken()
+                    @Html.ValidationSummary(false, "", "error")
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Tên phòng</label>
+                        @Html.TextBoxFor(model => model.TenPhong, new { @class = "form----", @placeholder = "Nhập tên phòng", @autoforcus = "autoforcus" })
+                        @Html.ValidationMessageFor(model => model.TenPhong, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputPassword1">Loại phòng</label>
+                        @Html.DropDownList("IDLoaiPhong", new SelectList(Model.listLoaiPhong, "ID", "TenLoaiPhong"), new { @class = "form----" })
+                        @Html.ValidationMessageFor(model => model.LoaiPhong.TenLoaiPhong, "", new { @class = "text-danger" })
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputPassword1">Sức chứa</label>
+                        @Html.TextBoxFor(model => model.SucChua, new { @class = "form----", @placeholder = "Nhập sức chứa" })
+                        @Html.ValidationMessageFor(model => model.SucChua, "", new { @class = "text-danger" })
+                    </div>
+                    <button type="submit" class="btn btn-default">Cập nhật</button>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
